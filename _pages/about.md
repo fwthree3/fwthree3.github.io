@@ -12,11 +12,11 @@ profile:
     <p>Burlington, ON, Canada</p>
     <p>fwthree3@gmail.com</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
@@ -26,10 +26,13 @@ latest_posts:
   limit: 3
 ---
 
-I am a full-stack robotics engineer and a Research Associate in Mechanical and Mechatronics Engineering at the University of Waterloo, working on a robotic HIFU (high-intensity focused ultrasound) treatment system.
 
-I received my Ph.D. in Mechanical and Mechatronics Engineering from the University of Waterloo (2022), where I researched collision-avoidance motion planning and control for mobile robots, and independently built a mobile-manipulator pick-and-place demo for PackExpo, including a custom 7-DOF inverse kinematics solver. Before my Ph.D., I spent five years at Hyundai Heavy Industries' Medical Robotics Institute, where I led the hardware design of MORNING WALK — a Korean-FDA-certified gait rehabilitation robot — from concept through detailed design and structural analysis, before transitioning to control software.
+I am a full-stack robotics engineer, comfortable across mechanical design, embedded electronics and sensors, and real-time control software (ROS/ROS2). I am currently on my own journey toward building humanoid robots, with a particular focus on bipedal locomotion, alongside a Research Associate appointment in Mechanical and Mechatronics Engineering at the University of Waterloo.
 
-Most recently, I worked on real-time motion planning and control for a dual-arm humanoid robot, developing a custom multi-axis EtherCAT ROS2 driver and an autonomous pick-and-place framework with vision-based object recognition.
+Most recently, I worked at Mirsee Robotics as the primary contributor to a dual-arm humanoid robot's autonomy stack — a Jacobian-based custom real-time servoing solver for position/velocity control, MoveIt-based path planning, and a custom multi-axis EtherCAT ROS2 driver, plus an autonomous pick-and-place framework with YOLO-based object recognition. I maintained the team's core ROS2 repository, and the work shipped in public demos including Discovery X 2026 and a CTV News segment. That experience building a humanoid's autonomy stack from the ground up is what pushed me to go build one on my own.
 
-My background spans mechanical design, embedded systems, and full-stack robot software (ROS/ROS2), across mobile robots, manipulators, and humanoid systems.
+I received my Ph.D. in Mechanical and Mechatronics Engineering from the University of Waterloo (2022), researching collision-avoidance motion planning and control for mobile robots. I also independently built a mobile-manipulator pick-and-place demo for PackExpo, including a custom 7-DOF inverse kinematics solver, from scratch in under two months.
+
+Before my Ph.D., I spent five years at Hyundai Heavy Industries' Medical Robotics Institute, where I owned the hardware design and fabrication of a gait rehabilitation robot — from concept through detailed design, actuator selection, and structural analysis — and carried it through medical device certification and deployment into rehabilitation hospitals, before transitioning to control software for its final two years.
+
+Across every stage, the throughline has been full-stack: mechanical design, embedded sensor and communication boards, and real-time control software, applied to mobile robots, manipulators, and now humanoid systems.
