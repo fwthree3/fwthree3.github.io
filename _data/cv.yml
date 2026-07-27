@@ -41,6 +41,7 @@ cv:
         position: Research Associate, Mechanical and Mechatronics Engineering
         location: Canada
         start_date: 2025-05-01
+        end_date: present
         summary: Developing a robotic HIFU (high-intensity focused ultrasound) treatment system. Part-time from May 2025; full-time since July 2026.
 
       - company: Mirsee Robotics Inc.
@@ -83,11 +84,13 @@ cv:
         position: Group Representative of 230 New Employees
         location: Republic of Korea
         start_date: 2012
+        end_date: 2012
 
       - company: Republic of Korea Air Force
         position: Group Representative of 80 Military Trainees
         location: Republic of Korea
         start_date: 2005
+        end_date: 2005
 
     Skills:
       - name: Robotics
