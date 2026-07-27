@@ -4,7 +4,7 @@ title: Mobile Manipulator Path Planning & Control
 description: Manufacturing-AI initiative — planning and control for a 6DOF parallel manipulator and a mobile manipulator
 img:
 importance: 2
-category: robotics
+category: work
 related_publications: false
 ---
 
