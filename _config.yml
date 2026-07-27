@@ -336,7 +336,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Han]
-  first_name: [Jeong-woo, Jeong Woo, J.]
+  first_name: [Jeong-woo, J. (Jeong Woo, J.W.)]
 
   style: apa
   locale: en
