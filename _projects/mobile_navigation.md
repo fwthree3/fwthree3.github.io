@@ -4,7 +4,7 @@ title: Safe & Efficient Mobile Robot Navigation
 description: Ph.D. research on hierarchical topology map based path planning and pedestrian-aware motion planning
 img:
 importance: 3
-category: robotics
+category: work
 related_publications: true
 ---
 
