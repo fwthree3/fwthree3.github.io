@@ -6,7 +6,7 @@ subtitle: Full-stack Robotics Engineer · Research Associate, University of Wate
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jhan.jpg
   image_circular: false
   more_info: >
     <p>Burlington, ON, Canada</p>
