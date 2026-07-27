@@ -1,221 +1,217 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jeong-woo Han",
+    "label": "Full-stack Robotics Engineer · Research Associate, University of Waterloo",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "fwthree3@gmail.com",
+    "phone": "",
+    "summary": "Robotics engineer and researcher working across mechanical design, embedded systems, and full-stack robot software (ROS/ROS2). Ph.D. from the University of Waterloo; experience spans mobile robot navigation, mobile manipulation, dual-arm robot control, and medical robotics.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "L7M 0L2",
+      "city": "Burlington",
+      "countryCode": "CA",
+      "region": "Ontario"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "j222han",
+        "url": "https://uwaterloo.ca/scholar/j222han"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
-    },
-    {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
+      "name": "University of Waterloo",
+      "position": "Research Associate, Mechanical and Mechatronics Engineering",
+      "location": "Canada",
+      "startDate": "2025-05-01",
+      "endDate": "",
+      "summary": "Developing a robotic HIFU (high-intensity focused ultrasound) treatment system. Part-time from May 2025; full-time since July 2026.",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "Mirsee Robotics Inc.",
+      "position": "Senior Autonomy Engineer",
+      "location": "Canada",
+      "startDate": "2025-04-01",
+      "endDate": "2026-07-12",
+      "summary": "Real-time motion planning and control for the dual arms of a humanoid robot.",
+      "highlights": [
+        "Real-time dual-arm motion planning and control: Jacobian-based custom solver for position/velocity control and real-time servoing, including testing and debugging",
+        "MoveIt-based path planning (time-parameterized trajectories) and control logic",
+        "Custom multi-axis EtherCAT ROS2 slave driver plugin (URDF-based); core maintainer of the company's ROS2 repository",
+        "Autonomous pick-and-place framework development, including off-the-shelf YOLO-based object recognition",
+        "Core contributor to public demos (Discovery X 2026, CTV News pick-and-place demo)"
+      ]
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
+      "name": "University of Waterloo",
+      "position": "Research Associate, Mechanical and Mechatronics Engineering",
+      "location": "Canada",
+      "startDate": "2022-09-01",
+      "endDate": "2025-04-01",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Manufacturing-AI project manager",
+        "Planning and control interfaces of a 6DOF parallel robotic manipulator",
+        "High-level controller for a mobile manipulator"
+      ]
+    },
+    {
+      "name": "Hyundai Heavy Industries, Medical Robotics Institute",
+      "position": "Lead Researcher",
+      "location": "Republic of Korea",
+      "startDate": "2012-07-01",
+      "endDate": "2017-08-01",
+      "summary": "Led development of MORNING WALK, an end-effector type gait rehabilitation robot, from scratch to commercialization.",
+      "highlights": [
+        "Full (100%) hardware design contribution over 3 years: concept through detailed design, with dynamics analysis for actuator selection and link structural analysis",
+        "Korean FDA (now MFDS) medical device certification and installation in rehabilitation hospitals",
+        "Transitioned to control software engineering for 2 years: GUI and control-logic improvements",
+        "Promoted to Lead Researcher one year early based on contribution to the robot's development"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Hyundai Heavy Industries",
+      "location": "Republic of Korea",
+      "position": "Group Representative of 230 New Employees",
+      "startDate": "2012-07-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Republic of Korea Air Force",
+      "location": "Republic of Korea",
+      "position": "Group Representative of 80 Military Trainees",
+      "startDate": "2005-06-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
+      "institution": "University of Waterloo",
+      "location": "Waterloo, Canada",
+      "url": "https://uwaterloo.ca/",
+      "area": "Mechanical and Mechatronics Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2017-09-01",
+      "endDate": "2022-08-01",
       "score": "",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": [
+        "Dissertation: Safe and Efficient Navigation of a Mobile Robot: Path Planning Based on Hierarchical Topology Map and Motion Planning with Pedestrian Behavior Model",
+        "Independently developed a custom 7-DOF inverse kinematics solver and prepared a mobile-manipulator pick-and-place demo for PackExpo within two months"
+      ]
+    },
+    {
+      "institution": "Yonsei University",
+      "location": "Seoul, Republic of Korea",
+      "url": "https://www.yonsei.ac.kr/",
+      "area": "Mechanical Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2010-03-01",
+      "endDate": "2012-08-01",
+      "score": "",
+      "courses": [],
+      "highlights": [
+        "Thesis: Design and Hardware Validation using CoP of Walking Assistive Lower Limb Exoskeleton for Paraplegia Patient — full hardware design and fabrication of the exoskeleton, including a DSP-based sensor/communication board, and CoP-based estimation of user walking intent",
+        "Concurrent graduate research: exoskeleton foot module design (with GRF sensor), a UAV safety unit and circular-path control algorithm (DSP-based), and a strain-gauge-based smart bed for patient fall detection (custom amplifier board and Arduino)"
+      ]
+    },
+    {
+      "institution": "Yonsei University",
+      "location": "Seoul, Republic of Korea",
+      "url": "https://www.yonsei.ac.kr/",
+      "area": "Mechanical Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2003-03-01",
+      "endDate": "2010-02-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Robotics",
+      "level": "Expert",
+      "icon": "fa-solid fa-robot",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "ROS / ROS2",
+        "Motion planning & control (mobile base, arm manipulation, mobile manipulators, dual-arm robots)",
+        "MoveIt-based trajectory planning",
+        "EtherCAT real-time communication",
+        "Sensor integration & embedded systems (DSP, Arduino)",
+        "Structural, kinematics, and dynamics simulation/analysis"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Programming & Tools",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
+      "keywords": ["C", "Python", "MATLAB", "Solidworks"]
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Experienced Tools",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-toolbox",
+      "keywords": ["ANSYS Workbench", "Recurdyn"]
     }
   ],
+  "languages": [],
+  "interests": [],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "MORNING WALK Gait Rehabilitation Robot",
+      "summary": "End-effector type gait rehabilitation robot with seating-type body weight support, taken from hardware concept through Korean FDA certification and hospital deployment.",
+      "highlights": ["Full hardware design (concept to detailed design, actuator selection, structural analysis)", "Control software GUI & logic improvements", "Korean FDA (now MFDS) certified"],
+      "startDate": "2012-07-01",
+      "endDate": "2017-08-01"
+    },
+    {
+      "name": "Mobile Robot Navigation (Ph.D. research)",
+      "summary": "Hierarchical topology map based global path planning and pedestrian-aware motion planning for safe, efficient mobile robot navigation.",
+      "highlights": ["Hierarchical Topology Map with Explicit Corridor", "Safety-aware navigation speed", "Pedestrian behavior model"],
+      "startDate": "2017-09-01",
+      "endDate": "2022-08-01"
+    },
+    {
+      "name": "PackExpo Mobile-Manipulator Pick-and-Place Demo",
+      "summary": "Independently developed a custom 7-DOF inverse kinematics solver and prepared an end-to-end pick-and-place demo for a mobile manipulator within two months.",
+      "highlights": ["Custom 7-DOF IK solver", "End-to-end demo delivered solo"],
+      "startDate": "2019-01-01",
+      "endDate": "2019-12-31"
+    },
+    {
+      "name": "Mobile Manipulator Path Planning & Control",
+      "summary": "Planning and control interfaces for a 6DOF parallel robotic manipulator and high-level control for a mobile manipulator, as part of a Manufacturing-AI initiative.",
+      "highlights": ["6DOF parallel manipulator", "High-level mobile manipulator control"],
+      "startDate": "2022-09-01",
+      "endDate": "2025-04-01"
+    },
+    {
+      "name": "Dual-Arm Humanoid Robot Autonomy",
+      "summary": "Real-time motion planning and control for the dual arms of a humanoid robot, including a custom EtherCAT ROS2 driver and an autonomous pick-and-place framework.",
+      "highlights": [
+        "Jacobian-based custom RT servoing solver (position/velocity control)",
+        "MoveIt-based path planning and control logic",
+        "Custom multi-axis EtherCAT ROS2 slave driver plugin",
+        "Autonomous pick-and-place framework with YOLO-based object recognition",
+        "Public demos: Discovery X 2026, CTV News"
+      ],
+      "startDate": "2025-04-01",
+      "endDate": "2026-07-12"
     }
   ]
 }
