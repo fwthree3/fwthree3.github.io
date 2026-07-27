@@ -4,7 +4,7 @@ title: MORNING WALK Gait Rehabilitation Robot
 description: End-effector type gait rehabilitation robot, from hardware concept to Korean FDA certification and hospital deployment
 img:
 importance: 4
-category: robotics
+category: work
 related_publications: true
 ---
 
