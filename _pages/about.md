@@ -8,9 +8,6 @@ profile:
   align: right
   image: jhan.jpg
   image_circular: false
-  more_info: >
-    <p>Burlington, ON, Canada</p>
-    <p>fwthree3@gmail.com</p>
 
 selected_papers: false
 social: true
