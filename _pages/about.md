@@ -33,3 +33,6 @@ I received my Ph.D. in Mechanical and Mechatronics Engineering from the Universi
 Before my Ph.D., I spent five years at Hyundai Heavy Industries in South Korea, where I owned the hardware design and fabrication of a gait rehabilitation robot — from concept through detailed design, actuator selection, and structural analysis — and carried it through medical device certification and deployment into rehabilitation hospitals, before transitioning to control software for its final two years.
 
 Across every stage, the throughline has been full-stack: mechanical design, embedded sensor and communication boards, and software for motion planning and control, applied to mobile robot navigation and arm manipulation, and now humanoid systems.
+
+{% include figure.liquid path="assets/img/Summary_ResearchExperiences_JeongwooHan_cropped.jpg" title="Research Summary" class="img-fluid rounded z-depth-1" %}
+
