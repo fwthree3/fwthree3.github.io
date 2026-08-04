@@ -434,7 +434,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png" height="20" width="20"> <img class="emoji" title=":smile:" alt=":smile:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png" height="20" width="20">',
           description: "",
-          section: "News",},{id: "projects-dual-arm-humanoid-robot-autonomy",
+          section: "News",},{id: "projects-linear-motion-planning-for-a-6-axis-surgical-manipulator",
+          title: 'Linear Motion Planning for a 6-Axis Surgical Manipulator',
+          description: "Motion planning algorithm and execution program for arbitrary end-effector linear trajectories on a 6-axis serial manipulator for bone-aligning surgical robots",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6axis_ee_motion_planning/";
+            },},{id: "projects-ai-powered-manufacturing",
+          title: 'AI-Powered Manufacturing',
+          description: "AI algorithms for surface defect detection and anomaly prediction in manufacturing, plus project management of related AI solutions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ai_manufacturing/";
+            },},{id: "projects-dual-arm-humanoid-robot-autonomy",
           title: 'Dual-Arm Humanoid Robot Autonomy',
           description: "Real-time motion planning and control for a dual-arm humanoid robot, with a custom EtherCAT ROS2 driver and an autonomous pick-and-place framework",
           section: "Projects",handler: () => {
@@ -444,14 +454,29 @@ ninja.data = [{
           description: "Design and hardware validation of a lower limb exoskeleton for paraplegia patients, using center of pressure (CoP) to estimate user intent",
           section: "Projects",handler: () => {
               window.location.href = "/projects/exoskeleton/";
-            },},{id: "projects-mobile-manipulator-path-planning-amp-control",
-          title: 'Mobile Manipulator Path Planning &amp; Control',
-          description: "Manufacturing-AI initiative — planning and control for a 6DOF parallel manipulator and a mobile manipulator",
+            },},{id: "projects-robotic-hifu-pet-treatment-system",
+          title: 'Robotic HIFU Pet Treatment System',
+          description: "A motorized 3-axis end-effector and wireless control system for a HIFU (high-intensity focused ultrasound) pet treatment device",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hifu_pet_treatment/";
+            },},{id: "projects-hifu-treatment-with-robotic-6-pod-stewart-platform",
+          title: 'HIFU Treatment with Robotic 6-Pod Stewart Platform',
+          description: "Control system for a 6-pod Stewart platform robot for HIFU (high-intensity focused ultrasound) treatment",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hifu_stewart_platform/";
+            },},{id: "projects-rapid-high-efficiency-laundry-drying-rack",
+          title: 'Rapid, High-Efficiency Laundry Drying Rack',
+          description: "Design of experiments (DOE) based airflow optimization for a fast laundry drying rack",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/laundry_drying_rack/";
+            },},{id: "projects-mobile-manipulator-demo-at-pack-expo",
+          title: 'Mobile Manipulator Demo at Pack EXPO',
+          description: "Autonomous pick-and-place and teach-and-play knob operation with a 7-DOF WAM arm on a mobile base, demonstrated live at Pack EXPO's Robotics Zone",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mobile_manipulation/";
             },},{id: "projects-safe-amp-efficient-mobile-robot-navigation",
           title: 'Safe &amp; Efficient Mobile Robot Navigation',
-          description: "Ph.D. research on hierarchical topology map based path planning and pedestrian-aware motion planning",
+          description: "Ph.D. research on hierarchical topology map based global path planning and a pedestrian-model-based local planner with a provable collision-free guarantee",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mobile_navigation/";
             },},{id: "projects-morning-walk-gait-rehabilitation-robot",
@@ -459,6 +484,26 @@ ninja.data = [{
           description: "End-effector type gait rehabilitation robot, from hardware concept to Korean FDA certification and hospital deployment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/morning_walk/";
+            },},{id: "projects-4-dof-needle-insertion-end-effector",
+          title: '4-DOF Needle Insertion End-Effector',
+          description: "Hardware design of a 4-DOF needle insertion end-effector for an MRI-guided intervention surgical robot",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/needle_insertion_effector/";
+            },},{id: "projects-patient-fall-detection-system-for-an-intellectual-bed",
+          title: 'Patient-Fall Detection System for an Intellectual Bed',
+          description: "A strain-gauge based force measurement system and Bluetooth data link for detecting patient falls from a smart hospital bed",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/patient_fall_detection/";
+            },},{id: "projects-vibration-of-a-strip-supported-by-rollers",
+          title: 'Vibration of a Strip Supported by Rollers',
+          description: "Analytical modeling of the vibration of a vertically-supported strip between rollers, motivated by steel-sheet galvanizing lines",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/strip_vibration_thesis/";
+            },},{id: "projects-uav-safety-algorithm-amp-circular-path-tracking",
+          title: 'UAV Safety Algorithm &amp; Circular Path Tracking',
+          description: "Flight control safety unit and circular-path tracking algorithm for a fixed-wing UAV",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/uav_control/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
