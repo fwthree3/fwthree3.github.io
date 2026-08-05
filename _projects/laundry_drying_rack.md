@@ -2,7 +2,7 @@
 layout: page
 title: Rapid, High-Efficiency Laundry Drying Rack
 description: Design of experiments (DOE) based airflow optimization for a fast laundry drying rack
-img:
+img: laundry_drying_rack.png
 importance: 5
 category: miscellaneous
 related_publications: false
@@ -11,6 +11,8 @@ related_publications: false
 **Graduate Research Assistant, Yonsei University**
 
 I optimized the design of a rapid, high-efficiency laundry drying rack using airflow simulation and design-of-experiments methodology.
+
+{% include figure.liquid path="assets/img/laundry_drying_rack_doe.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 **Contributions**
 - Airflow simulation via design of experiments (DOE), varying number of holes, hole spacing, hole diameter, and pipe inner diameter
