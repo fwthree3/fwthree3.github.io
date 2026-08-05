@@ -18,3 +18,6 @@ I worked on real-time motion planning and control for the dual arms of a humanoi
 - A custom multi-axis EtherCAT ROS2 slave driver plugin (URDF-based); core maintainer of the team's ROS2 repository
 - An autonomous pick-and-place framework, including off-the-shelf YOLO-based object recognition
 - Core contributor to public demos, including Discovery X 2026 and a CTV News segment
+
+**Media**
+- [CTV National News: Cambridge company creates new AI robot](https://www.ctvnews.ca/video/2026/03/09/ctv-national-news-cambridge-company-creates-new-ai-robot/)
