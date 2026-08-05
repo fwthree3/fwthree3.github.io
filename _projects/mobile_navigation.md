@@ -18,8 +18,6 @@ I developed a skeleton-based hierarchical graph method that extracts equidistant
 **Local motion planning: Collision Arc**
 For the local, reactive layer, I built on a pedestrian behavioral model — which mimics how people navigate crowds by choosing the walking direction with the most free space — but that model alone gives no collision-free guarantee. I introduced the *collision arc (CA)*: the set of headings at the robot's preferred speed that lead to a future collision, obtained by mapping raw range measurements (e.g., LiDAR) onto the robot's velocity space and combining this with velocity-obstacle theory. Constraining the pedestrian model's direction choice to fall outside the CA is proven to yield a collision-free desired velocity. Because the method operates directly on raw range measurements with constant-size data, its computational complexity is O(1) regardless of the number or type of obstacles — compared to O(n) or O(n²) for velocity-obstacle-based methods that process each obstacle individually. Simulations validated far-sighted, non-freezing behavior on the "freezing robot problem" and on symmetric/asymmetric circular crossing scenarios with up to 10 agents.
 
-**PackExpo demo**: also independently developed a custom 7-DOF WAM inverse kinematics solver and delivered an end-to-end mobile-manipulator demo within two months — see the dedicated *Mobile Manipulator Demo at Pack EXPO* project.
-
 **Outcomes**
 - Han, J.W., Jeon, S., Kwon, H.J., "Hierarchical Topology Map with Explicit Corridor for Global Path Planning of Mobile Robots," *Intelligent Service Robotics*, 2023 — journal extension of the AIM 2019 conference paper
 - The collision-arc-based local planner was presented at a conference; a journal manuscript is in preparation
