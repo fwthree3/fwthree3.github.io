@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mobile Manipulator Demo at Pack EXPO
+title: Mobile Manipulator
 description: Autonomous pick-and-place and teach-and-play knob operation with a 7-DOF WAM arm on a mobile base, demonstrated live at Pack EXPO's Robotics Zone
 img:
 importance: 2
@@ -35,3 +35,8 @@ The WAM arm (3-DOF shoulder, 1-DOF elbow, 3-DOF wrist) is kinematically redundan
 - Teach-and-play motion for the knob-tightening task
 
 **Outcomes**: successfully demonstrated live at Pack EXPO's Robotics Zone (North Hall). Remaining issues noted afterward were mobile-base localization drift and short-range blind spots, manipulation performance bound by the WAM's internal controller, and the need for more robust vision under varied lighting.
+
+**Videos**
+- [Mobile Manipulator Multi-Floor Operation](https://www.youtube.com/watch?v=rkKu2eE83Ss)
+- [NMPC Pick and Place](https://www.youtube.com/watch?v=KnoEmmT15cc)
+- [Advanced Robotics Research at the University of Waterloo's RoboHub](https://www.youtube.com/watch?v=eBBXOahmkuU)

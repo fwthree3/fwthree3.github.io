@@ -24,3 +24,6 @@ For the local, reactive layer, I built on a pedestrian behavioral model — whic
 - Han, J.W., Jeon, S., Kwon, H.J., "Hierarchical Topology Map with Explicit Corridor for Global Path Planning of Mobile Robots," *Intelligent Service Robotics*, 2023 — journal extension of the AIM 2019 conference paper
 - The collision-arc-based local planner was presented at a conference; a journal manuscript is in preparation
 - Also contributed as a co-author to a labmate-led paper on MPC-based path-following control for holonomic mobile robots, published in *Control Engineering Practice* (2023)
+
+**Video**
+- [Mobile Robot Path Planning With Allowable Speed For Safety](https://www.youtube.com/watch?v=oDTTdYcj_qA)
