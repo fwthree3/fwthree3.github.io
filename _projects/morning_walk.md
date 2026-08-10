@@ -14,7 +14,13 @@ MORNING WALK is an end-effector type gait rehabilitation robot with a seating-ty
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/gait_rehab_robot_training.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/gait_rehab_robot_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/gait_rehab_robot_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
