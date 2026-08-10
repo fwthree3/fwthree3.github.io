@@ -13,7 +13,7 @@ related_publications: false
 Motivated by the need for vibration control during the galvanizing process of steel sheets, I derived an analytical model for the vibration of a strip vertically supported by rollers at both ends.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/strip_vibration_thesis_graph.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

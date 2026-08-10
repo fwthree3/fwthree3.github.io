@@ -13,7 +13,7 @@ related_publications: true
 I designed a 4-DOF needle insertion end-effector for an MRI-guided intervention surgical robotic system, performing needle insertion and rotation through two sets of grippers.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/needle_insertion_effector_system.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

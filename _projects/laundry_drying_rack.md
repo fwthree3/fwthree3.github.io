@@ -13,7 +13,7 @@ related_publications: false
 I optimized the design of a rapid, high-efficiency laundry drying rack using airflow simulation and design-of-experiments methodology.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/laundry_drying_rack_doe.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

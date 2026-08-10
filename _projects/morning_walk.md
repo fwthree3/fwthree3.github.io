@@ -13,13 +13,13 @@ related_publications: true
 MORNING WALK is an end-effector type gait rehabilitation robot with a seating-type body weight support, designed for patients recovering mobility after stroke or spinal cord injury. I led the hardware design of the robot from concept through commercialization.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/gait_rehab_robot_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/gait_rehab_robot_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

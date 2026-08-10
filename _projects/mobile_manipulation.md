@@ -13,7 +13,7 @@ related_publications: false
 I integrated a 7-DOF Barrett WAM arm onto a Summit_XLS mobile base to build a mobile manipulator, then took full responsibility for the task autonomy behind a live demo in the Robotics Zone at Pack EXPO. The system had to navigate between two tables, pick and place a bottle using vision-based grasping, and tighten/release a knob on a Septimatech guide-rail mockup — all within a compressed two-month development window.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mobile_manipulation.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -25,7 +25,7 @@ The system networked three subsystems over ROS: a laptop running the central tas
 I evaluated three pose-estimation approaches for the target object — DOPE (deep-learning, shape-based, requires a trained model), ArUco markers, and WHYCON (marker-based) — and ran a controlled accuracy comparison against a VICON motion-capture reference across 5 locations × 4 sub-locations on a calibrated 2D stage. DOPE proved sensitive to lighting and failed outright at one location, so I selected ArUco for the demo's reliability.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mobile_manipulation_vision.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -34,7 +34,7 @@ I evaluated three pose-estimation approaches for the target object — DOPE (dee
 The WAM arm (3-DOF shoulder, 1-DOF elbow, 3-DOF wrist) is kinematically redundant, so I resolved the extra DOF by fixing the elbow (J4) position — either at the point closest to its current location or on the plane spanned by the J1–J7 and J7–Jtool lines — before solving the rest in closed form. When no solution existed for the commanded grasp orientation, the solver fell back to trying alternate approach angles about the object's z-axis (9 angles × 2 sides); this modification raised the solver's success rate to about 90% over 50,000 randomized test poses.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mobile_manipulation_wam_kinematics.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

@@ -13,7 +13,7 @@ related_publications: false
 I developed the circular-path tracking algorithm and the safety algorithm/circuit for a fixed-wing UAV's flight control system.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/uav_control_pcb.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
