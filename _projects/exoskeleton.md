@@ -2,7 +2,7 @@
 layout: page
 title: Walking Assistive Lower Limb Exoskeleton
 description: Design and hardware validation of a lower limb exoskeleton for paraplegia patients, using center of pressure (CoP) to estimate user intent
-img: exoskeleton.png
+img: assets/img/exoskeleton.png
 importance: 5
 category: work
 related_publications: true
@@ -17,7 +17,11 @@ For my master's thesis, I designed and built a walking-assistive lower limb exos
 - Kinematic modeling and analysis of the gait phase transition
 - A DSP-based sensor and communication board, with data acquisition via CAN communication
 
-{% include figure.liquid path="assets/img/exoskeleton_trajectory.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/exoskeleton_trajectory.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 **Concurrent graduate research**: during the same period, I also worked on an exoskeleton foot module with a ground reaction force (GRF) sensor, a safety unit and circular-path tracking algorithm for a UAV (DSP-based), and a strain-gauge-based smart bed for patient fall detection with a custom amplifier board and Arduino.
 
