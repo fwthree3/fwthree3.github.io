@@ -19,7 +19,13 @@ For my master's thesis, I designed and built a walking-assistive lower limb exos
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/exoskeleton_trajectory.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/exoskeleton_thesis.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/exoskeleton_foot.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 

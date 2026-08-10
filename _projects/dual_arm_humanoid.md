@@ -21,7 +21,7 @@ I worked on real-time motion planning and control for the dual arms of a humanoi
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/dual_arm_humanoid_hand.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/dual_arm_humanoid.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
