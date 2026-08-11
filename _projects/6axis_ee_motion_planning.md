@@ -2,7 +2,7 @@
 layout: page
 title: Linear Motion Planning for a 6-Axis Surgical Manipulator
 description: Motion planning algorithm and execution program for arbitrary end-effector linear trajectories on a 6-axis serial manipulator for bone-aligning surgical robots
-img: assets/img/6axis_ee_motion_planning.jpg
+#img: assets/img/6axis_ee_motion_planning.jpg
 importance: 2
 category: miscellaneous
 related_publications: false

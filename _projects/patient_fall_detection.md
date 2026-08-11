@@ -2,7 +2,7 @@
 layout: page
 title: Patient-Fall Detection System for an Intellectual Bed
 description: A strain-gauge based force measurement system and Bluetooth data link for detecting patient falls from a smart hospital bed
-img: assets/img/patient_fall_detection.jpg
+#img: assets/img/patient_fall_detection.jpg
 importance: 4
 category: miscellaneous
 related_publications: false

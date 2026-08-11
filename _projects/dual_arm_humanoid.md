@@ -2,7 +2,7 @@
 layout: page
 title: Dual-Arm Humanoid Robot Autonomy
 description: Real-time motion planning and control for a dual-arm humanoid robot, with a custom EtherCAT ROS2 driver and an autonomous pick-and-place framework
-img: assets/img/dual_arm_humanoid.jpg
+#img: assets/img/dual_arm_humanoid.jpg
 importance: 1
 category: work
 related_publications: false

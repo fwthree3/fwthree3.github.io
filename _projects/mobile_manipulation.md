@@ -2,7 +2,7 @@
 layout: page
 title: Mobile Manipulator
 description: Autonomous pick-and-place and teach-and-play knob operation with a 7-DOF WAM arm on a mobile base, demonstrated live at Pack EXPO's Robotics Zone
-img: assets/img/mobile_manipulation_knob.jpg
+#img: assets/img/mobile_manipulation_knob.jpg
 importance: 2
 category: work
 related_publications: false

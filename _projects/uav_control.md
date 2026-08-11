@@ -2,7 +2,7 @@
 layout: page
 title: UAV Safety Algorithm & Circular Path Tracking
 description: Flight control safety unit and circular-path tracking algorithm for a fixed-wing UAV
-img: assets/img/uav_control.jpg
+#img: assets/img/uav_control.jpg
 importance: 1
 category: miscellaneous
 related_publications: false

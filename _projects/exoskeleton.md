@@ -2,7 +2,7 @@
 layout: page
 title: Walking Assistive Lower Limb Exoskeleton
 description: Design and hardware validation of a lower limb exoskeleton for paraplegia patients, using center of pressure (CoP) to estimate user intent
-img: assets/img/exoskeleton.jpg
+#img: assets/img/exoskeleton.jpg
 importance: 5
 category: work
 related_publications: true

@@ -2,7 +2,7 @@
 layout: page
 title: Rapid, High-Efficiency Laundry Drying Rack
 description: Design of experiments (DOE) based airflow optimization for a fast laundry drying rack
-img: assets/img/laundry_drying_rack.jpg
+#img: assets/img/laundry_drying_rack.jpg
 importance: 5
 category: miscellaneous
 related_publications: false

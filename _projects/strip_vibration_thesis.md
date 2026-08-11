@@ -2,7 +2,7 @@
 layout: page
 title: Vibration of a Strip Supported by Rollers
 description: Analytical modeling of the vibration of a vertically-supported strip between rollers, motivated by steel-sheet galvanizing lines
-img: assets/img/strip_vibration_thesis_graph.jpg
+#img: assets/img/strip_vibration_thesis_graph.jpg
 importance: 6
 category: miscellaneous
 related_publications: false
