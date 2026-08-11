@@ -2,7 +2,7 @@
 layout: page
 title: Gait Rehabilitation Robot
 description: End-effector type gait rehabilitation robot, from hardware concept to Korean FDA certification and hospital deployment
-img: assets/img/gait_rehab_robot.png
+img: assets/img/gait_rehab_robot.jpg
 importance: 4
 category: work
 related_publications: true

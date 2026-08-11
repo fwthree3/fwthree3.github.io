@@ -2,7 +2,7 @@
 layout: page
 title: 4-DOF Needle Insertion End-Effector
 description: Hardware design of a 4-DOF needle insertion end-effector for an MRI-guided intervention surgical robot
-img: assets/img/needle_insertion_effector.png
+img: assets/img/needle_insertion_effector.jpg
 importance: 3
 category: miscellaneous
 related_publications: true
